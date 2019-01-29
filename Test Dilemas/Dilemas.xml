@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><Dilemas>
+	<Dilema id="1">
+		<parte1>Los soldados enemigos se han apoderado de tu aldea. Tienen órdenes de matar a todos los civiles restantes. Tú y algunos de los habitantes han buscado refugio en el sótano de una casa grande. Afuera escuchas las voces de los soldados que han venido a buscar objetos de valor en la casa.
+		</parte1>
+		<parte2>Tu bebé comienza a llorar fuerte. Cubres su boca para bloquear el sonido. Si quitas la mano de su boca, su llanto llamará la atención de los soldados que te matarán a ti, a tu hijo y a los demás que se esconden en el sótano. Para salvarte a ti y a los demás, debes sofocar a tu hijo hasta la muerte.
+		</parte2>
+		<parte3> ¿Es apropiado que asfixies a tu hijo para salvarte a ti mismo y a los demás ciudadanos?
+		</parte3>
+	</Dilema>
+	<Dilema id="2">
+		<parte1>Eres el líder de un pequeño grupo de soldados. Vuelves de una misión completa en lo profundo del territorio enemigo cuando uno de tus hombres ha entrado en una trampa que ha sido colocada por el enemigo y está gravemente herido. La trampa está conectada a un dispositivo de radio que ahora ha alertado al enemigo de su presencia. Pronto estarán en camino.
+		</parte1>
+		<parte2>Si el enemigo encuentra a tu hombre herido lo torturarán y lo matarán. Te ruega que no lo dejes atrás, pero si tratas de llevarlo contigo, todo tu grupo será capturado. La única forma de evitar que este soldado herido sea torturado es disparándole tú mismo.
+		</parte2>
+		<parte3>¿Es apropiado que dispares a este soldado para evitar que sea torturado por el enemigo?
+		</parte3>
+	</Dilema>
+	<Dilema id="3">
+		<parte1>Un carro fuera de control se dirige hacia las vías hacia cinco obreros que serán asesinados si el carro sigue su curso actual. Estás en una pasarela sobre las vías, entre el carro qye se acerca y los cinco trabajadores. A su lado, en esta pasarela, hay un extraño que resulta ser muy grande.
+		</parte1>
+		<parte2>La única forma de salvar las vidas de los cinco trabajadores es empujar a este extraño fuera del puente y sobre las vías debajo de donde su gran cuerpo detendrá el carro. Al extraño morirá si haces esto, pero los cinco trabajadores serán salvados.
+		</parte2>
+		<parte3>¿Es apropiado que empujes al extraño a las vías para salvar a los cinco trabajadores?
+		</parte3>
+	</Dilema>
+	<Dilema id="4">
+		<parte1>Está negociando con un terrorista poderoso y decidido que está por lanzar una bomba en un área llena de gente. Tu única ventaja es que tienes a su hijo adolescente bajo tu custodia.
+		</parte1>
+		<parte2>Solo hay una cosa que puedes hacer para evitar que detone su bomba, que matará a miles de personas. Para detenerlo, debes ponerte en contacto con él a través de la conexión satelital que ha establecido y, frente a la cámara, romper uno de los brazos de su hijo y luego amenazar con romper el otro si no se da por vencido.
+		</parte2>
+		<parte3>¿Es apropiado que rompas el brazo del hijo del terrorista para evitar que el terrorista mate a miles de personas con su bomba?
+		</parte3>
+	</Dilema>
+	<Dilema id="5">
+		<parte1>Estás en un crucero cuando hay un incendio a bordo, y el barco tiene que ser abandonado. Los botes salvavidas llevan mucha más gente de la que fueron diseñados para llevar. El bote salvavidas en el que te encuentras está peligrosamente bajo el agua, algunas pulgadas más abajo y se hundirá.
+		</parte1>
+		<parte2>Los mares comienzan a ponerse ásperos y el barco comienza a llenarse de agua. Si no se hace nada, se hundirá antes de que lleguen los botes de rescate y morirán todos a bordo. Sin embargo, hay una persona lesionada que no sobrevivirá en ningún caso. Si arrojas a esa persona por la borda, el bote permanecerá a flote y los pasajeros restantes serán salvados.
+		</parte2>
+		<parte3>¿Es apropiado tirar a esta persona por la borda para salvar las vidas de los pasajeros restantes?
+		</parte3>
+	</Dilema>
+	<Dilema id="6">
+		<parte1>Eres parte de un grupo de ecologistas que viven en un tramo remoto de la jungla. Todo el grupo, que incluye ocho niños, ha sido tomado como rehén por un grupo de terroristas paramilitares. Él le informa que su líder tiene la intención de matarte a ti y al resto de los rehenes a la mañana siguiente. De alguna manera tu le agradas.
+		</parte1>
+		<parte2>Está dispuesto a ayudarte a ti y a los niños a escapar, pero como un acto de buena fe, quiere que mates a uno de tus compañeros rehenes a quien no le gusta. Si rechazas su oferta, todos los rehenes, incluidos los niños y tú, morirán. Si aceptas su oferta, los demás morirán por la mañana, pero tú y los ocho niños escaparán.
+		</parte2>
+		<parte3>¿Es apropiado que mates a uno de tus compañeros de rehenes para escapar de los terroristas y salvar las vidas de los ocho niños?
+		</parte3>
+	</Dilema>
+	<Dilema id="7">
+		<parte1>Tú, tu esposo y tus cuatro hijos cruzan una cordillera en su viaje de regreso a su tierra natal. Inadvertidamente has establecido un campamento en el cementerio sagrado de un clan local.
+		</parte1>
+		<parte2>El líder del clan dice que, de acuerdo con las leyes locales, tú y tu familia deben ser ejecutados. Sin embargo, te dejarán vivir a ti, a tu esposo y a tus otros tres hijos si matas a tu hijo mayor.
+		</parte2>
+		<parte3>¿Es apropiado que mates a tu hijo mayor para salvar a tu esposo y a tus otros tres hijos?
+		</parte3>
+	</Dilema>
+	<Dilema id="8">
+		<parte1>Es tiempo de guerra y tú y tus dos hijos, de ocho y cinco años, viven en un territorio que ha sido ocupado por el enemigo. En la sede del enemigo hay un médico que realiza experimentos dolorosos en humanos que inevitablemente llevan a la muerte.
+		</parte1>
+		<parte2>Tiene la intención de realizar experimentos con uno de tus hijos, pero él le permitirá elegir cuál de tus hijos experimentará. Tienes veinticuatro horas para llevar a uno de tus hijos a su laboratorio. Si te niegas a llevar a uno de ellos, los encontrará a los dos y experimentará en ambos.
+		</parte2>
+		<parte3>¿Es apropiado que traigas a uno de tus hijos al laboratorio para evitar que ambos mueran?
+		</parte3>
+	</Dilema>
+	<Dilema id="9">
+		<parte1>Eres el capitán de un submarino militar que viaja debajo de un gran iceberg. Una explosión a bordo te ha hecho perder la mayor parte de tu suministro de oxígeno y ha lesionado a uno de tu equipo que está perdiendo sangre rápidamente. El miembro de la tripulación herido va a morir por sus heridas sin importar lo que pase.
+		</parte1>
+		<parte2>El oxígeno restante no es suficiente para que toda la tripulación llegue a la superficie. La única forma de salvar a los otros miembros de la tripulación es matar a tiros al miembro de la tripulación herido para que haya suficiente oxígeno para que el resto de la tripulación pueda sobrevivir.
+		</parte2>
+		<parte3>¿Es apropiado que mates al miembro de la tripulación fatalmente herido para salvar las vidas de los miembros restantes de la tripulación?
+		</parte3>
+	</Dilema>
+	<Dilema id="10">
+		<parte1>Una epidemia viral se ha extendido por todo el mundo y ha matado a millones de personas. Has desarrollado dos sustancias en tu laboratorio de origen. Sabes que una de ellos es una vacuna, pero no sabes cuál. También sabes que el otro es mortal.
+		</parte1>
+		<parte2>Una vez que descubras qué sustancia es la vacuna, puedes usarla para salvar millones de vidas. Tienes contigo a dos personas bajo tu cuidado, y la única forma de identificar la vacuna es inyectar a cada una de estas personas una de las dos sustancias. Una persona vivirá, la otra morirá y podrás comenzar a salvar vidas con tu vacuna.
+		</parte2>
+		<parte3>¿Es apropiado que mates a una de estas personas con una inyección letal para identificar una vacuna que salve millones de vidas?
+		</parte3>
+	</Dilema>
+	<Dilema id="11">
+		<parte1>Eres el líder de una expedición de montañismo que está varada en el desierto. Su expedición incluye una familia de seis que tiene una deficiencia de vitamina genéticamente causada. Los riñones de algunas personas contienen grandes cantidades de esta vitamina.
+		</parte1>
+		<parte2>Hay una de esas personas en tu grupo. La única forma de salvar las vidas de los seis miembros de esta familia es eliminar uno de los riñones de este hombre para que se puedan extraer las vitaminas necesarias. El hombre no morirá si haces esto, pero su salud se verá comprometida. El hombre se opone a este plan, pero tú tienes el poder de hacer lo que creas conveniente.
+		</parte2>
+		<parte3>¿Es apropiado que elimines por la fuerza el riñón de este hombre para salvar la vida de las seis personas con deficiencia de vitaminas?
+		</parte3>
+	</Dilema>
+	<Dilema id="12">
+		<parte1>Estás de vacaciones en un país que es políticamente inestable, violento y corrupto, sin autoridad. Te aventuras, solo en el hermoso campo y pasas por un pequeño pueblo, estás tranquilamente caminando y observas como un hombre ha tomado el control del pueblo desafiando a la autoridad. Observas  que hay hombres armados que seleccionan al azar a tres aldeanos y los alinean para que sean ejecutados como un castigo y una advertencia para el pueblo.
+		</parte1>
+		<parte2>Tu sentido del derecho y la justicia están indignados y protestas al hombre fuerte, le suplicas que lo que está a punto de hacer está mal ya que se trata de personas inocentes. Él te mira y se ríe de tu ingenuidad, te dice que no te lastimará porque no quiere problemas para sí mismo al matar extranjeros, dice que le divierten tus escrúpulos y desea ofrecerte dos opciones. La primera es que sus hombres ejecuten a los tres y la segunda, puedes ejecutar uno personalmente y los otros vivirán.
+		</parte2>
+		<parte3>¿Es correcto que ejecutes a una persona para salvar a tres de ser asesinadas?
+		</parte3>
+	</Dilema>
+<Dilema id="13"><parte1>Pingo el pollo</parte1><parte2>Es inocente</parte2><parte3>perros</parte3></Dilema></Dilemas>
